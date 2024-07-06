@@ -24,6 +24,8 @@
 
 <h2 align="center"><i>Languages and Tools:</i></h2>
 
+[![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshalDighe)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
