@@ -19,8 +19,8 @@ I am a DevOps Engineer passionate about automating workflows and improving softw
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshalDighe&show_icons=true&theme=radical)
-[![Harshals's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Harshals's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshalDighe&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
