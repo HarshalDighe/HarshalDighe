@@ -9,13 +9,6 @@ I'm a DevOps intern with a passion for automation, CI/CD, and cloud technologies
 - 👯 I’m looking to collaborate on open-source DevOps tools and automation projects.
 - 📫 How to reach me: hdighe37@gmail.com.
 
-## 🌱 Currently Learning
-- Docker and Kubernetes
-- Terraform
-- Ansible
-- Jenkins and GitHub Actions
-- AWS/GCP/Azure services
-
 ## 🤔 Ask Me About
 
 - **AWS Services:**
@@ -46,14 +39,4 @@ I'm a DevOps intern with a passion for automation, CI/CD, and cloud technologies
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/HarshalDighe)
 
 
-## 🧰 DevOps Projects
 
-### 🛠️ CI/CD Pipelines
-
-- **[Jenkins Pipelines](https://github.com/your-username/jenkins-pipelines)**: Jenkins pipeline configurations for various CI/CD workflows.
-- **[GitHub Actions Workflows](https://github.com/your-username/github-actions)**: Example GitHub Actions workflows for CI/CD automation.
-
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
