@@ -35,7 +35,7 @@ I'm a DevOps intern with a passion for automation, CI/CD, and cloud technologies
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshal-dighe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-dighe)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/HarshalDighe)
 portfolio:- https://harshalportfolio.netlify.app
 
